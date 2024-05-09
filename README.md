@@ -1,6 +1,6 @@
 # VdoCipher Integration with Dropzone.js 📽️
 #### ( Client-side Code )
-A client-side react.js code that presents a basic demo for integration of VdoCipher Video Management with Fullstack Web Application. For the upload process, Dropzone.js package was used. As for the backend code, it's implemented in Spring Boot. You can find it at the following repo: _To be posted soon_
+A client-side react.js code that presents a basic demo for integration of VdoCipher Video Management with Fullstack Web Application. For the upload process, Dropzone.js package was used. As for the backend code, it's implemented in Spring Boot. You can find it at the following repo: [Click here](https://github.com/MariamAtef226/vdocipher-webapp-integration-spring-boot-code)
 
 
 ## :ledger: Index
@@ -26,7 +26,7 @@ _PS: This app is only for demo purpose to understand VdoCipher integration with 
 ## :notebook: Pre-Requisites
 - VdoCipher Account
 - Node.js and npm
-- The Spring Boot Server-side app of this project (can be found at this link: _To be posted soon_)
+- The Spring Boot Server-side app of this project (can be found at this [link](https://github.com/MariamAtef226/vdocipher-webapp-integration-spring-boot-code))
 - JDK 17
 - MySQL Server (needed by the Spring Boot app)
 
@@ -78,7 +78,6 @@ $ npm run dev
 ```
 
 ##  :file_folder: File Structure
-Add a file structure here with the basic details about files, below is an example.
 
 ```
 .
