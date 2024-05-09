@@ -82,7 +82,6 @@ $ npm run dev
 ```
 .
 ├── src
-│   ├── assets
 │   ├── App.css
 |   ├── main.jsx
 |   ├── VideoDropbox.jsx
@@ -90,10 +89,10 @@ $ npm run dev
 ├── index.html
 ├── eslintrc.cjs
 ├── vite.config.js
-├── LICENSE
-├── .gitignore
 ├── package.json
 ├── package-lock.json
+├── .gitignore
+├── LICENSE
 └── README.md
 ```
 ##  :fire: Contribution
