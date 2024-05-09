@@ -1,0 +1,59 @@
+/* Upload Dropzone Styling */
+body{
+  font-family: sans-serif;
+  background-color: aliceblue;
+padding:20px;
+}
+hr{
+  border-color: #c2b7d1;
+}
+.dropzone {
+  border: dashed 2px #cac7c7;
+  text-align: center;
+  color: #2e2c2c;
+  font-weight: 500;
+  line-height: 1.2;
+  font-size: 1.4rem;
+
+}
+
+.dropzone .dz-preview.dz-file-preview {
+  margin: 0 auto;
+  width: 200px;
+}
+
+.dropzone .dz-preview .dz-progress,
+.dropzone .dz-preview .dz-success-mark,
+.dropzone .dz-preview .dz-error-mark {
+  top: 72% !important;
+}
+.dropzone .dz-preview .dz-progress .dz-upload {
+  background: linear-gradient(to bottom, #37714c, #056031) !important;
+}
+.dropzone .dz-preview.dz-file-preview .dz-image {
+  width: 100%;
+  height: 150px;
+}
+.dropzone .dz-preview .dz-remove {
+  text-decoration: none;
+  color: red;
+  font-size: 1.1rem;
+  margin-top: 5px;
+}
+.dropzone .dz-preview .dz-remove::before {
+  content: "X";
+  font-weight: bold;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  padding: 2px 7px;
+  margin-right: 4px;
+}
+.messagesHolder {
+  padding-top: 5px;
+  font-family: sans-serif;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+
